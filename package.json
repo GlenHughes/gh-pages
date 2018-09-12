@@ -1,0 +1,13 @@
+{
+  "name": "gh-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "deploy": ""
+  },
+  "homepage": "https://glenhughes.github.io/gh-pages",
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
