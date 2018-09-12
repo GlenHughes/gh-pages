@@ -6,6 +6,7 @@ https://www.npmjs.com/package/gh-pages
 https://pages.github.com/
 https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 https://www.youtube.com/watch?v=SKXkC4SqtRk
+https://help.github.com/articles/setting-up-an-apex-domain/
 
 ## Setting Domain Records
 A Record @ 185.199.108.153
