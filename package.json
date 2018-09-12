@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "deploy": ""
+    "deploy": "gh-pages -d dist -b deploy"
   },
   "homepage": "https://glenhughes.github.io/gh-pages",
   "devDependencies": {
